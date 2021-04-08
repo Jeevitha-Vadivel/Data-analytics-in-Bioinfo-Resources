@@ -3,4 +3,6 @@ list of resources for bioinformatics Data science
 
 ## resourse list
 
-* python resource list
+* python _resources .md
+
+
